@@ -53,8 +53,7 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  
+  }  
   .tab-item span{
     margin-top: 30px;
     margin-left: -25px;
